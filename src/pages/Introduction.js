@@ -12,7 +12,6 @@ export default class Introduction extends React.Component {
                 <p>
                    <i className="glyphicon glyphicon-map-marker"></i>Kaohsiung/Taiwan   
                    <i className="glyphicon glyphicon-envelope"></i>ch81213@gmail.com   
-                   <i className="glyphicon glyphicon-globe"></i>0919187578   
                    <i className="glyphicon glyphicon-gift"></i>1987/06/26   
                 </p>
                 <hr></hr>
